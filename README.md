@@ -20,7 +20,7 @@ I am a passionate M.Tech CS student from coding dojo, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontsop-Anderson&layout=compact&theme=radical)
 
 ## 🌱 Currently Exploring
 
