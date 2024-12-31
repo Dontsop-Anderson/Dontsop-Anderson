@@ -22,18 +22,34 @@ I am a passionate M.Tech CS student from coding dojo, driven by a curiosity for 
 ## Tech Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontsop-Anderson&layout=compact&theme=radical)
 
-## 🌟 Profile Views
+## 🛠️ Skill Set
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dontsop-Anderson&color=blue)
+- **Programming Languages:**
+  - Python
+  - JavaScript
+  - Java
+  - HTML/CSS
+
+- **Frameworks and Libraries:**
+  - React
+  - Node.js
+  - Express.js
+  - Flask
+
+- **Tools and Platforms:**
+  - Git
+  - Amazon AWS
+
+- **Other Skills:**
+  - Problem Solving
+  - Data Structures and Algorithms
+  - System Design
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with flask, a powerful Python web framework.
-  - Diving into mySQL and MongoDB for efficient and scalable database management.
+- 🚀 Learning Networking
+- DevOps Practices
+  
 
  ## 🏆 Achievements
 
