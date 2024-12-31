@@ -22,6 +22,10 @@ I am a passionate M.Tech CS student from coding dojo, driven by a curiosity for 
 ## Tech Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontsop-Anderson&layout=compact&theme=radical)
 
+## 🌟 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dontsop-Anderson&color=blue)
+
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
